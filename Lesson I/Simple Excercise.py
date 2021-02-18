@@ -22,3 +22,10 @@ a = 20
 b = 1.2
 
 print(a + b)
+
+
+def sum_custome(number: int) -> int:
+    return number*10
+
+
+sum_custome()

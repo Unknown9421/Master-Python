@@ -227,7 +227,7 @@ print(
                         (Thêm hai toán hạng hoặc cộng một bậc - Google Translate)
 
     Note:
-    - Unary plus (+) trả về giá trị của chính toán hạng đó, bạn sẽ không cần phải 
+    - Unary plus (+) trả về giá trị của chính toán hạng đó, bạn sẽ không cần phải
     sử dụng toán tử này vì nó không cần thiết.
     - Unary minus (-) trả về số đối của toán hạng đó.
     Source :
@@ -382,14 +382,14 @@ print(
     Bitwise operators
 
     Note:
-    - Toán tử này thực hiện trên các bit của các giá trị. Hãy tưởng tượng mình có 2 biến a = 12 và b = 15 nhưng nếu 
+    - Toán tử này thực hiện trên các bit của các giá trị. Hãy tưởng tượng mình có 2 biến a = 12 và b = 15 nhưng nếu
     chúng ta convert chúng sang hệ nhị phân thì 2 biến này sẽ có giá trị như sau: a = 00001100 và b = 00001111.
 
     Bitwise operators act on operands as if they were strings of binary digits. They operate bit by bit, hence the name.
 
     (Google Translate)
 
-    Toán tử bitwise hoạt động trên các toán hạng như thể chúng là các chuỗi chữ số nhị phân. Chúng hoạt động từng chút 
+    Toán tử bitwise hoạt động trên các toán hạng như thể chúng là các chuỗi chữ số nhị phân. Chúng hoạt động từng chút
     một, do đó có tên.
 
     For example, 2 is 10 in binary and 7 is 111.
@@ -469,30 +469,30 @@ print(
     Toán tử đặc biệt (Toán tử xác thực) - Special operators
 
     Note:
-    - Dạng Toán tử này dùng để xác thực hai giá trị xem nó có bằng nhau hay không. Và trong Python 
+    - Dạng Toán tử này dùng để xác thực hai giá trị xem nó có bằng nhau hay không. Và trong Python
     hỗ trợ chúng ta 2 dạng sau:
         + Giả sử: a = 4, b =5
 
     Source:
     https://toidicode.com/cac-toan-tu-co-ban-trong-python-349.html
 
-    - Python language offers some special types of operators like the identity operator or the membership operator. 
+    - Python language offers some special types of operators like the identity operator or the membership operator.
     - They are described below with examples.
 
     Identity operators
 
-    - "is" and "is not" are the identity operators in Python. They are used to check if two values (or variables) are 
+    - "is" and "is not" are the identity operators in Python. They are used to check if two values (or variables) are
     located on the same part of the memory.
     - Two variables that are equal does not imply that they are identical.
 
     (Google Translate)
 
-    - Ngôn ngữ Python cung cấp một số loại toán tử đặc biệt như toán tử nhận dạng hoặc toán tử thành viên. 
+    - Ngôn ngữ Python cung cấp một số loại toán tử đặc biệt như toán tử nhận dạng hoặc toán tử thành viên.
     - Chúng được mô tả dưới đây với các ví dụ.
 
     Toán tử nhận dạng
 
-    - "is" và "is not" là các toán tử nhận dạng trong Python. Chúng được sử dụng để kiểm tra xem hai giá trị (hoặc biến) 
+    - "is" và "is not" là các toán tử nhận dạng trong Python. Chúng được sử dụng để kiểm tra xem hai giá trị (hoặc biến)
     có nằm trên cùng một phần của bộ nhớ hay không.
     - Hai biến bằng nhau không có nghĩa là chúng giống hệt nhau.
 """
@@ -534,14 +534,14 @@ print(
 """
     Toán tử khai thác - Membership operators
 
-    - "in" and "not in" are the membership operators in Python. They are used to test whether a value or variable is 
+    - "in" and "not in" are the membership operators in Python. They are used to test whether a value or variable is
     found in a sequence (string, list, tuple, set and dictionary).
 
     - In a dictionary we can only test for presence of key, not the value.
 
     (Google Translate)
 
-    - "in" và "not int" là các toán tử thành viên trong Python. Chúng được sử dụng để kiểm tra xem một giá trị hoặc biến 
+    - "in" và "not int" là các toán tử thành viên trong Python. Chúng được sử dụng để kiểm tra xem một giá trị hoặc biến
     được tìm thấy trong một chuỗi (chuỗi, danh sách, bộ, bộ và từ điển).
 
     - Trong từ điển, chúng ta chỉ có thể kiểm tra sự hiện diện của khóa chứ không phải giá trị.
